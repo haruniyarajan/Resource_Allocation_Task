@@ -1,4 +1,4 @@
-# Technical Assessment: Analyst, Data Science – 167
+# Resource Allocation
 
 ## Overview
 This notebook is part of a technical assessment for resource allocation in the insurance domain. The goal is to analyze firm-level data and provide insights to help a supervisory manager allocate scarce resources by identifying firms that require more attention.
